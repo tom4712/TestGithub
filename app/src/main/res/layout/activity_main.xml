@@ -9,7 +9,7 @@
     android:padding="16dp">
 
     <TextView
-        android:text="이주가 짱이지~~@!!!!!"
+        android:text="김용수"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
