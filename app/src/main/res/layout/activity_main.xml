@@ -9,7 +9,7 @@
     android:padding="16dp">
 
     <TextView
-        android:text="김용수"
+        android:text="김용수amksd"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
